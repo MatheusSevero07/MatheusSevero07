@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Severo 👋
 
 - ❤️ Desenvolvedor Front end Jr
-- 📚 Estudando Html | Css | Javascript | NodeJS
+- 📚 Estudando Html | Css | Javascript | NodeJS | React
 
   <div>
     <a href="https://github.com/MatheusSevero07">
