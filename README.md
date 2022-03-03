@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Severo 👋
 
 - ❤️ Estudante
-- 📚 Estudando Html| Css | Javascript 
+- 📚 Estudando Html | Css | Javascript 
 
   <div>
     <a href="https://github.com/MatheusSevero07">
