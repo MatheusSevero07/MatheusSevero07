@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus Severo 👋
 
-- ❤️ Estudante
+- ❤️ Desenvolvedor Front end Jr
 - 📚 Estudando Html | Css | Javascript 
 
   <div>
@@ -17,6 +17,7 @@
     
   ##
     
+    <h2> Vamos nos Conectar: </h2>
   <div>
     <a href="https://www.linkedin.com/in/matheus-severo-a76581220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-     badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
