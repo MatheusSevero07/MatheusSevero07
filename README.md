@@ -17,11 +17,6 @@
     
   ##
     
-    <h2> Vamos nos Conectar: </h2>
-  <div>
-    <a href="https://www.linkedin.com/in/matheus-severo-a76581220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-     badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-    
-    ![Snake animation](https://github.com/MatheusSevero07/MatheusSevero07/blob/output/github-contribution-grid-snake.svg)
+ 
  
    
